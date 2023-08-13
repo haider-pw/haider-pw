@@ -19,6 +19,45 @@ I'm <b>Syed Haider Hassan</b>, a seasoned full-stack software developer based in
 
 </p>
 
+<hr />
+
+🛠️ **Skills:**
+
+![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
+![](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/RESTful_API-3CBB75?style=flat&logo=rest&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/CSS_3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=PHPUnit&logoColor=white)
+![](https://img.shields.io/badge/Semaphore_CI-19A974?style=flat&logo=semaphore&logoColor=white)
+![](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=Nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
+![](https://img.shields.io/badge/Vue_Storefront-5DAC50?style=flat&logo=Vue-Storefront&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=GraphQL&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![](https://img.shields.io/badge/CI/CD-4FC3F7?style=flat&logo=CircleCI&logoColor=white)
+![](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white)
+![](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+![](https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
+![](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=ClickUp&logoColor=white)
+![](https://img.shields.io/badge/Bloomreach-FF6B6B?style=flat&logo=Bloomreach&logoColor=white)
+![](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white)
+![](https://img.shields.io/badge/BitBucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)
+![](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt3-00C58E?style=flat&logo=Nuxt.js&logoColor=white)
+
+<hr />
 
   <a href="https://www.linkedin.com/in/haider-pw/" target="_blank">
     <img src="https://img.shields.io/badge/-Connect%20with%20me-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
@@ -27,5 +66,7 @@ I'm <b>Syed Haider Hassan</b>, a seasoned full-stack software developer based in
   <a href="https://github.com/haider-pw" target="_blank">
     <img src="https://img.shields.io/badge/-Follow%20me%20on%20GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
   </a>
+
+
 
 
