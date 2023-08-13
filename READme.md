@@ -24,5 +24,8 @@ I'm <b>Syed Haider Hassan</b>, a seasoned full-stack software developer based in
     <img src="https://img.shields.io/badge/-Connect%20with%20me-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
   </a>
 
+  <a href="https://github.com/haider-pw" target="_blank">
+    <img src="https://img.shields.io/badge/-Follow%20me%20on%20GitHub-333?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
+  </a>
 
 
