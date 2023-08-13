@@ -17,18 +17,6 @@ I'm <b>Syed Haider Hassan</b>, a seasoned full-stack software developer based in
 
 🔗 **Connect & Explore:** Feel free to explore my work on [GitHub](https://github.com/haider-pw) or connect with me on [LinkedIn](https://www.linkedin.com/in/haider-pw) to see how we can shape the future together.
 
-
-
-
-
-💡 **A Commitment to Excellence:** Innovation, creativity, and a relentless pursuit of quality define my approach. Whether refining architecture or optimizing code, my focus is always on delivering the best experience.
-
-🌱 **Growth & Collaboration:** Embracing challenges and continuous learning, I contribute to the open-source community and believe in knowledge-sharing. Together, we build tomorrow's technology today.
-
-🚀 **Vision for Success:** Driven by passion and precision, my mission is to transform ideas into successes, one line of code at a time. Join me on this exciting journey as we shape the future of technology.
-
-🔗 **Let's Connect:** Explore my work on [GitHub](https://github.com/haider-pw), or [connect with me on LinkedIn](https://www.linkedin.com/in/haider-pw/).
-
 </p>
 
 
